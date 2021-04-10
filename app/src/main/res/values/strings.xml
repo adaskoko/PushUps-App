@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pushups</string>
+
+    <string name="title">PushUps</string>
+    <string name="training">Trening</string>
+    <string name="goals">Cele</string>
+    <string name="statistics">Statystyki</string>
+    <string name="start">Start</string>
+    <string name="type">Typ:</string>
+    <string name="typeET">Klasyczne</string>
+    <string name="reps">Powtórzenia</string>
+    <string name="progress">Progres</string>
+    <string name="pass">Passa</string>
+    <string name="days">Dni</string>
+    <string name="goal">Dzienny cel</string>
+</resources>
