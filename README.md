@@ -1,5 +1,5 @@
 # PushUps Android application
-This is an app for registering your push ups workouts. 
+This is an app for registering your push ups workouts.  
 For this app to work, you need to put your phone under your chest while doing push ups.
 Then push ups are automaticaly detected by using proximity sensor.
 
@@ -9,7 +9,7 @@ Then push ups are automaticaly detected by using proximity sensor.
 ### Before workout
 ![](PresentationImages/BeforeWorkout.png)
 
-### During workout
+### During workout - counting push ups with proximity sensor
 ![](PresentationImages/DuringWorkout.png)
 
 ### Setting up your daily goal
